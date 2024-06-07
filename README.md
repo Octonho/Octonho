@@ -10,7 +10,7 @@ Olá! Sou um desenvolvedor back-end apaixonado pela criação de soluções efic
 
 ## Tecnologias e Ferramentas
 
-- ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## Projetos
 
