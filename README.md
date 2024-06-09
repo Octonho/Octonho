@@ -1,5 +1,3 @@
-# Bem-vindo ao Meu GitHub
-
 ## Sobre Mim
 
 Olá! Sou um desenvolvedor back-end apaixonado pela criação de soluções eficientes e escaláveis. Aqui estão algumas informações sobre mim:
