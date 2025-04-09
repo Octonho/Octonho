@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Olá! Sou um desenvolvedor back-end apaixonado pela criação de soluções eficientes e escaláveis. Aqui estão algumas informações sobre mim:
+Olá! Sou um desenvolvedor back-end apaixonado pela criação de soluções eficientes e escalaveis. Aqui estão algumas informações sobre mim:
 
 - **Profissão**: Desenvolvedor Back-End
 - **Linguagem de Programação Principal**: C#
